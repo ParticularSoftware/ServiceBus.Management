@@ -26,7 +26,7 @@
     <PackageReference Include="ByteSize" Version="2.0.0" />
     <PackageReference Include="Microsoft.AspNet.WebApi.OwinSelfHost" Version="5.2.7" />
     <PackageReference Include="Microsoft.AspNet.WebApi" Version="5.2.7" />
-    <PackageReference Include="Autofac.WebApi2" Version="4.3.1" />
+    <PackageReference Include="Autofac.WebApi2" Version="6.0.1" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.15" />
     <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="3.1.15" />
     <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="3.1.15" />
